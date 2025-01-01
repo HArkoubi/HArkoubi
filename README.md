@@ -1,8 +1,6 @@
 - Hi, I’m Husam Arkoubi
-- I’m interested in Software Architectures and Machine Learning Applications
-- I’m learning and practicing Self Supervised Energy Based Models
-- I’m currently working on management and visualization tools for micro-services 
-- You can reach me through [Linkedin](http://www.linkedin.com/in/husam-arkoubi-70470a25)
+- I’m interested in Software Architecture and Machine Learning Applications
+- You can reach me through [Linkedin](http://www.linkedin.com/in/harkoubi)
 
 <!---
 HArkoubi/HArkoubi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
